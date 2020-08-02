@@ -4,6 +4,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flashing your Dell PERC H310 to IT firmware (UEFI)](https://sanderh.dev/flashing-your-Dell-Perc-to-IT-firmware/)
+- [Call Azure DevOps REST API with Postman](https://sanderh.dev/call-Azure-DevOps-REST-API-Postman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
