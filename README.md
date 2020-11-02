@@ -4,6 +4,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ARM what-if operation](https://sanderh.dev/ARM-what-if-operation/)
 - [Delete default project Wiki in Azure DevOps](https://sanderh.dev/delete-project-wiki-Azure-DevOps/)
 - [Setup Docker and Docker Compose on a Raspberry Pi](https://sanderh.dev/setup-Docker-and-Docker-Compose-on-Raspberry-Pi/)
 - [Flashing your Dell PERC H310 to IT firmware (UEFI)](https://sanderh.dev/flashing-your-Dell-Perc-to-IT-firmware/)
