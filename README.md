@@ -4,11 +4,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debug standard objects in Dynamics 365](https://sanderh.dev/D365-debug-standard-objects/)
 - [ARM what-if operation](https://sanderh.dev/ARM-what-if-operation/)
 - [Delete default project Wiki in Azure DevOps](https://sanderh.dev/delete-project-wiki-Azure-DevOps/)
 - [Setup Docker and Docker Compose on a Raspberry Pi](https://sanderh.dev/setup-Docker-and-Docker-Compose-on-Raspberry-Pi/)
 - [Flashing your Dell PERC H310 to IT firmware (UEFI)](https://sanderh.dev/flashing-your-Dell-Perc-to-IT-firmware/)
-- [Call Azure DevOps REST API with Postman](https://sanderh.dev/call-Azure-DevOps-REST-API-Postman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
