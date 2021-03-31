@@ -4,11 +4,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi change IP without rebooting](https://sanderh.dev/Raspberry-Pi-change-ip-without-rebooting/)
 - [Using REST APIs with curl](https://sanderh.dev/using-REST-API-with-curl/)
 - [Parsing YAML files using yq](https://sanderh.dev/parsing-YAML-files-using-yq/)
 - [Using Dependabot with Azure DevOps](https://sanderh.dev/Dependabot-Azure-DevOps/)
 - [Signing commits in GitHub &amp; VS Code](https://sanderh.dev/signing-commits-GitHub-VSCode/)
-- [Debug standard objects in Dynamics 365](https://sanderh.dev/D365-debug-standard-objects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
