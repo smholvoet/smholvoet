@@ -4,11 +4,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Linux hosts using Grafana Cloud, Prometheus and Node Exporter](https://sanderh.dev/monitor-linux-hosts-grafana-prometheus-node-exporter/)
 - [Automating Azure DevOps agent updates](https://sanderh.dev/automating-Azure-DevOps-agent-updates/)
 - [Raspberry Pi change IP without rebooting](https://sanderh.dev/Raspberry-Pi-change-ip-without-rebooting/)
 - [Using REST APIs with curl](https://sanderh.dev/using-REST-API-with-curl/)
 - [Parsing YAML files using yq](https://sanderh.dev/parsing-YAML-files-using-yq/)
-- [Using Dependabot with Azure DevOps](https://sanderh.dev/Dependabot-Azure-DevOps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
