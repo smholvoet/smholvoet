@@ -4,11 +4,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Removing Microsoft Edge using PowerShell](https://sanderh.dev/remove-Microsoft-Edge-PowerShell/)
 - [Upgrading your Raspberry Pi to Bullseye](https://sanderh.dev/upgrade-Raspberry-Pi-bullseye/)
 - [Monitoring Linux hosts using Grafana Cloud, Prometheus and Node Exporter](https://sanderh.dev/monitor-linux-hosts-grafana-prometheus-node-exporter/)
 - [Automating Azure DevOps agent updates](https://sanderh.dev/automating-Azure-DevOps-agent-updates/)
 - [Raspberry Pi change IP without rebooting](https://sanderh.dev/Raspberry-Pi-change-ip-without-rebooting/)
-- [Using REST APIs with curl](https://sanderh.dev/using-REST-API-with-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
